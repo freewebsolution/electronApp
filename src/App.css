@@ -1,0 +1,5 @@
+@import 'bulma/css/bulma.css';
+.my-title {
+    font-size:30px;
+    color: red;
+}
